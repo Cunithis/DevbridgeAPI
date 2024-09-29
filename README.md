@@ -43,3 +43,8 @@ Set a books' rating:
         GET /api/books/rating?id={id}&rating={rating}
 
 For database I used H2 database.
+This API was containerized using docker.
+
+To run:
+
+        docker run -p 8080:8080 your-application-name
