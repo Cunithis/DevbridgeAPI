@@ -48,4 +48,4 @@ This API was containerized using docker.
 
 To run:
 
-        docker run -p 8080:8080 your-application-name
+        docker run -p 8080:8080 books
